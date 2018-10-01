@@ -1,7 +1,7 @@
 zcss
 ---
 
-> [Zcss](https://style.zammani.com) boilerplate is inspired from [skeleton](http://getskeleton.com/) and [milligram](https://milligram.io/) css framework.
+> [Zcss](https://style.zammani.com) is a minimal CSS framework inspired from [skeleton](http://getskeleton.com/) and [milligram](https://milligram.io/) css framework.
 
 This project use [sass](https://sass-lang.com/guide),[jquery](https://www.w3schools.com/jquery/default.asp) and [gulp](https://gulpjs.com/).
 ## Contributing
